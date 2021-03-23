@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/exchangerates/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/exchangerates/static/js/main.ce059c1e.chunk.js",
+    "main.js.map": "/exchangerates/static/js/main.ce059c1e.chunk.js.map",
+    "runtime-main.js": "/exchangerates/static/js/runtime-main.85e6b5e8.js",
+    "runtime-main.js.map": "/exchangerates/static/js/runtime-main.85e6b5e8.js.map",
+    "static/js/2.5feca253.chunk.js": "/exchangerates/static/js/2.5feca253.chunk.js",
+    "static/js/2.5feca253.chunk.js.map": "/exchangerates/static/js/2.5feca253.chunk.js.map",
+    "index.html": "/exchangerates/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/exchangerates/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5feca253.chunk.js.LICENSE.txt": "/exchangerates/static/js/2.5feca253.chunk.js.LICENSE.txt",
+    "static/media/background.fa060f73.jpg": "/exchangerates/static/media/background.fa060f73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85e6b5e8.js",
+    "static/js/2.5feca253.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ce059c1e.chunk.js"
+  ]
+}
